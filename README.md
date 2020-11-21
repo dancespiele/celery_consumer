@@ -6,7 +6,7 @@ This is an example of consumer with [Rust Celery](https://rusty-celery.github.io
 
 1. Install [Rabbitmq](https://www.rabbitmq.com/)
 
-2. Clone the project
+2. Clone the project: `git clone https://github.com/dancespiele/celery_consumer.git`
 
 3. Inside of the project directory add the .env file with the path of you Sled database:
 
