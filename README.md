@@ -1,4 +1,4 @@
-# Celery consumer
+# Celery Consumer
 
 This is an example of consumer with [Rust Celery](https://rusty-celery.github.io/) that save a completed task in [Sled](https://sled.rs/) database.
 
